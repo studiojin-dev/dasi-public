@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 2,
+  "id": "en-ko-core",
+  "targetLang": "en",
+  "sourceLang": "ko",
+  "topic": "core",
+  "version": "0.1.0",
+  "cardCount": 17198,
+  "name": {
+    "ko": "영어 핵심 단어 (공개 코퍼스)",
+    "en": "English Core (open corpora)"
+  },
+  "audio": {
+    "format": "m4a",
+    "variants": [
+      "en-US",
+      "en-GB"
+    ]
+  },
+  "license": "CC-BY-SA-4.0 (see ATTRIBUTION.md)",
+  "reviewed": false,
+  "exams": [
+    {
+      "id": "all",
+      "name": {
+        "ko": "전체 (빈도순)",
+        "en": "All words"
+      },
+      "cardCount": 17198
+    },
+    {
+      "id": "elementary",
+      "name": {
+        "ko": "초등",
+        "en": "Elementary school"
+      },
+      "cardCount": 972
+    },
+    {
+      "id": "middle",
+      "name": {
+        "ko": "중등",
+        "en": "Middle school"
+      },
+      "cardCount": 3213
+    },
+    {
+      "id": "csat",
+      "name": {
+        "ko": "고등·수능",
+        "en": "High school · CSAT"
+      },
+      "cardCount": 8621
+    },
+    {
+      "id": "toeic",
+      "name": {
+        "ko": "토익",
+        "en": "TOEIC"
+      },
+      "cardCount": 3897
+    },
+    {
+      "id": "toefl",
+      "name": {
+        "ko": "토플",
+        "en": "TOEFL"
+      },
+      "cardCount": 8438
+    },
+    {
+      "id": "gre",
+      "name": {
+        "ko": "GRE",
+        "en": "GRE"
+      },
+      "cardCount": 2276
+    }
+  ],
+  "credits": [
+    {
+      "name": "Tatoeba",
+      "license": "CC-BY-2.0-FR",
+      "url": "https://tatoeba.org",
+      "notice": "Example sentences by Tatoeba contributors; per-sentence authors are listed in attribution.tsv"
+    },
+    {
+      "name": "Korean Wiktionary (한국어 위키낱말사전) via kaikki.org wiktextract",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://kaikki.org/kowiktionary/",
+      "notice": "Wiktionary contributors"
+    },
+    {
+      "name": "New General Service List, TOEIC Service List, Business Service List, New Academic Word List",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://www.newgeneralservicelist.com",
+      "notice": "Browne, C., Culligan, B. & Phillips, J."
+    },
+    {
+      "name": "CEFR-J Vocabulary Profile 1.5",
+      "license": "CEFR-J (citation required)",
+      "url": "https://www.cefr-j.org",
+      "notice": "CEFR-J Vocabulary Profile 1.5 (Tono Lab, Tokyo University of Foreign Studies)"
+    },
+    {
+      "name": "Octanove Vocabulary Profile C1/C2",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://github.com/openlanguageprofiles/olp-en-cefrj"
+    },
+    {
+      "name": "FrequencyWords en_50k (hermitdave, OpenSubtitles 2018)",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://github.com/hermitdave/FrequencyWords"
+    },
+    {
+      "name": "Qwen3-TTS (Qwen, Alibaba Cloud)",
+      "license": "Apache-2.0",
+      "url": "https://github.com/QwenLM/Qwen3-TTS",
+      "notice": "Pronunciation audio synthesized with Qwen3-TTS"
+    }
+  ]
+}
