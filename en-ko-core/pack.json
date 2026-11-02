@@ -5,7 +5,7 @@
   "sourceLang": "ko",
   "topic": "core",
   "version": "0.1.0",
-  "cardCount": 17198,
+  "cardCount": 17060,
   "name": {
     "ko": "영어 핵심 단어 (공개 코퍼스)",
     "en": "English Core (open corpora)"
@@ -17,8 +17,6 @@
       "en-GB"
     ]
   },
-  "license": "CC-BY-SA-4.0 (see ATTRIBUTION.md)",
-  "reviewed": false,
   "exams": [
     {
       "id": "all",
@@ -26,7 +24,7 @@
         "ko": "전체 (빈도순)",
         "en": "All words"
       },
-      "cardCount": 17198
+      "cardCount": 17060
     },
     {
       "id": "elementary",
@@ -42,7 +40,7 @@
         "ko": "중등",
         "en": "Middle school"
       },
-      "cardCount": 3213
+      "cardCount": 3201
     },
     {
       "id": "csat",
@@ -50,7 +48,7 @@
         "ko": "고등·수능",
         "en": "High school · CSAT"
       },
-      "cardCount": 8621
+      "cardCount": 8591
     },
     {
       "id": "toeic",
@@ -66,7 +64,7 @@
         "ko": "토플",
         "en": "TOEFL"
       },
-      "cardCount": 8438
+      "cardCount": 8402
     },
     {
       "id": "gre",
@@ -74,9 +72,11 @@
         "ko": "GRE",
         "en": "GRE"
       },
-      "cardCount": 2276
+      "cardCount": 2264
     }
   ],
+  "license": "CC-BY-SA-4.0 (see ATTRIBUTION.md)",
+  "reviewed": false,
   "credits": [
     {
       "name": "Tatoeba",

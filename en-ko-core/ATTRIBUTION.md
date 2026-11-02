@@ -27,3 +27,7 @@
 ## Tracks (school levels, tests)
 
 The elementary / middle / high-school·CSAT / TOEIC / TOEFL / GRE tracks are not official word lists. TOEIC uses the NGSL and the TOEIC Service List (TSL); TOEFL adds the New Academic Word List (NAWL); the rest were assigned by a language model (Claude Sonnet) from each word's frequency band, CEFR-like level and meaning.
+
+## 심사·수정
+
+카드 전체를 gpt-6.1-sol 이 심사해(`pack grade`) 품사·IPA·뜻·예문을 고쳤다(`pack grade-apply`, 사람 검수 전). 고친 뜻을 가진 카드는 `tags` 의 `llm-gloss`, 새로 쓴 예문은 `attribution.tsv` 의 license `LLM-draft:gpt-6.1-sol` 로 표시한다. 원문을 유지한 예문의 출처 줄은 그대로이며, 번역만 바뀐 예문은 모국어 출처 칸을 비웠다.

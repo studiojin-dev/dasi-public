@@ -23,7 +23,7 @@ This is the **core English word pack (`en-ko-core`)** bundled in the [Dasi Engli
 
 ## 바꾼 점 / Changes
 
-위 자료에서 표제어를 고르고 뜻·예문을 선별·요약·수정했습니다. 뜻과 예문의 대부분은 언어 모델(Claude, Codex)로 새로 쓰고 검토했으며, 어느 예문이 어디서 왔는지는 `attribution.tsv` 의 `license` 열(`CC-BY-2.0-FR`, `CC-BY-SA-4.0`, `LLM-draft:<model>`)에 있습니다. 시험별 구분(학년·수능·토익·토플·GRE)은 공식 목록이 아닙니다.
+위 자료에서 표제어를 고르고 뜻·예문을 선별·요약·수정했습니다. 뜻과 예문의 대부분은 언어 모델(Claude Haiku·Sonnet, OpenAI Codex)로 새로 쓰고 검토했으며, 어느 예문이 어디서 왔는지는 `attribution.tsv` 의 `license` 열(`CC-BY-2.0-FR`, `CC-BY-SA-4.0`, `LLM-draft:<model>`)에 있습니다. 시험별 구분(학년·수능·토익·토플·GRE)은 공식 목록이 아닙니다.
 
 Headwords were selected and meanings and examples were selected, summarised and edited from the sources above. Most meanings and example sentences were rewritten and checked with language models (Claude, Codex); the `license` column of `attribution.tsv` records where each example came from. Exam groupings are our own, not official lists.
 
